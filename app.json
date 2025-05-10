@@ -18,7 +18,7 @@
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
-            "value":""
+            "value":"7558666783:AAFNYl8qCYrxhNQHkGOodp4alrFvD3viGzU"
         },
         "AUTH_USERS":{
             "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 6764661699,6705556585",
